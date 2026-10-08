@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Is Grounded
   - isGrounded
+  - Enemy
   layers:
   - Default
   - TransparentFX
